@@ -1,6 +1,7 @@
 **📊 Customer Behavior Analysis – Alfido Tech Internship**
 
 **Project Overview**
+
 This project focuses on analyzing e-commerce customer transaction data to understand purchasing behavior, segment customers, and identify retention and churn patterns. The analysis was completed as part of an internship task at Alfido Tech, with the goal of generating actionable business insights using data analytics techniques.
 
  **Objectives**
@@ -11,6 +12,7 @@ This project focuses on analyzing e-commerce customer transaction data to unders
 - Provide data-driven recommendations to improve customer engagement.
 
 **Dataset**
+
 Source: Kaggle (Customer Behavior Analysis Dataset)
 - Data includes customer transactions, product categories, payment methods, purchase dates, and monetary values.
 
